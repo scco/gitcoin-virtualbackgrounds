@@ -2,6 +2,9 @@
  animated virtual backgrounds for your zoom conference by @scco
 
 
+[![gitcoin_city](gitcoin_city_preview.gif)](gitcoin_city.mov)\
+gitcoin_city.mov – 66,7MB – 40sec
+
 [![gitcoin_rain](gitcoin_rain_preview.gif)](gitcoin_rain.mov)\
 gitcoin_rain.mov – 2,4MB – 20sec
 
